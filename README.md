@@ -1,2 +1,2 @@
-# Human-Benchmark-Verbal-Memory-Hack
-Scans your screen for the word in human benchmark's verbal memory game and clicks the correct button for you.
+# Piano-Tiles-Bot
+Helps you perform better on piano tiles by scanning your screen and clicking on the tiles for you
